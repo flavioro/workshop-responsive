@@ -3,7 +3,7 @@ import { FaCalendarAlt, FaArrowRight, FaComments } from 'react-icons/fa';
 
 import { Container, PostContent, PostText, PostFooter } from './styles';
 
-import space from 'assets/images/space.jpg';
+import space from 'assets/images/space2.jpg';
 import avatar from 'assets/images/avatar.png';
 
 function Post() {
