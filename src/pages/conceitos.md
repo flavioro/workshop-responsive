@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../../assets/images/html_css_javascript_infographic.png">
+  <img src="src/assets/images/html_css_javascript_infographic.png">
 </div> <br />
 
 
