@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/images/html_css_javascript_infographic.png">
+  <img src="../../src/assets/images/html_css_javascript_infographic.png">
 </div> <br />
 
 
@@ -7,3 +7,6 @@
 
   <div>✔️ CSS</div>
   <div>✔️ HTML</div>
+
+https://github.com/flavioro/workshop-responsive/blob/master/src/assets/images/html_css_javascript_infographic.png
+
